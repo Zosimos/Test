@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    color: red;
+    border-style: solid;
+    border-radius: 24px;
+}
+.centered{
+    width: 200px; 
+    margin-right: auto;
+    margin-left: auto;
+}
